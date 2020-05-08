@@ -1,1 +1,2 @@
-Git is software contrl system
+Git is software contrl system..
+It used for nodejs ecosystem
